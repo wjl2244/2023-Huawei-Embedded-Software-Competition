@@ -6,4 +6,4 @@
 
 ## 智能小车
 YahBoom jetbot AI智能小车
-![jetbot智能小车](Intelligent car/image/YahBoom-jetbot.jpg)
+![jetbot智能小车](Intelligent-car/image/YahBoom-jetbot.jpg)
