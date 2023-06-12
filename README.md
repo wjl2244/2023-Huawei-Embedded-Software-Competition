@@ -6,4 +6,4 @@
 
 ## 智能小车
 YahBoom jetbot AI智能小车（图片来自亚博智能官网）
-![jetbot智能小车]([Intelligent-car/image/YahBoom-jetbot.jpg](https://github.com/wjl2244/2023-Huawei-Embedded-Software-Competition/blob/main/Intelligent%20car/image/YahBoom-jetbot.jpg))
+![jetbot智能小车](https://github.com/wjl2244/2023-Huawei-Embedded-Software-Competition/blob/main/Intelligent%20car/image/YahBoom-jetbot.jpg)
